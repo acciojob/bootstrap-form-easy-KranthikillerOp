@@ -1,2 +1,33 @@
+/* Style the form container */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
 
-/* Your CSS Code here. */
+/* Style the form header */
+h1 {
+    text-align: center;
+}
+
+/* Style form inputs and labels */
+.form-control {
+    margin-bottom: 10px;
+}
+
+/* Style the submit button */
+.btn-primary {
+    width: 100%;
+    padding: 10px;
+}
+
+/* Style the form-check (checkbox) */
+.form-check {
+    margin-bottom: 10px;
+}
+
+/* Style the invalid feedback messages */
+.invalid-feedback {
+    color: red;
+    font-size: 12px;
+}
